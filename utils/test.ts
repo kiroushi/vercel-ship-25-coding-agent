@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 dotenv.config({ path: ".env.local" });
 
 codingAgent(
-  "Explore https://checklyhq.com",
+  "Add a contributing section to the readme of this project. Use standard format.",
 )
   .then(console.log)
   .catch(console.error);
