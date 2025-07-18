@@ -49,3 +49,15 @@ Parameters:
 
 - `prompt` - What you want the agent to do
 - `repoUrl` - GitHub repository URL
+
+## Contributing
+
+We welcome contributions to this project! To contribute:
+
+1. Fork this repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and write clear, descriptive commit messages.
+4. Test your changes.
+5. Submit a pull request describing your changes and the motivation behind them.
+
+Please follow the existing code style and conventions. If you have any questions, feel free to open an issue.
